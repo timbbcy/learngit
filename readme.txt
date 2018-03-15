@@ -4,3 +4,4 @@ asdadasdsad
 Git has a mutable index called stage.
 Git tracks changes.
 test brance dev,Creating a new branch is quick and simple.
+test new merge mode
